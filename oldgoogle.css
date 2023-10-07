@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    font-size: 70px;
+}
+
+.heading {
+    margin-top: 9%;
+    margin-left: 41%;
+}
+
+div span {
+   font-family:'Times New Roman', Times, serif;
+}
+
+.sub-heading {
+    margin-top: 9px;
+    margin-left: 31%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+   margin: 2px;
+}
+
+ul{
+    padding: 3px;
+    border: 0.5px solid black;;
+}
+
+
+.blue {
+    color: rgb(3, 3, 170);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.red {
+    color: red;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.yellow {
+    color: yellow;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.green {
+    color: green;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.btn1 {
+    margin-top: 50%;
+    margin-left: 37%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+   padding: 7px;
+   margin-top: 10px;
+   border-radius: 5px;
+   border: 1px solid ;
+}
+
+.left-btn{
+    margin-left: 32px;
+}
+
+.right-btn{
+    margin-left: 22px;
+}
+
+p{
+    margin-top: 35px;
+    margin-left: 38%;
+}
+
+footer{
+    margin-top: 35px;
+    margin-left: 34%;
+}
+
+.end{
+    margin-top: 20px;
+    margin-left: 17%;
+}
